@@ -1,0 +1,54 @@
+{
+    "prefix": ".",
+    "messages": {
+        "cooldown": {
+            "embed": {
+                "active": true,
+                "color": "#2B2D31"
+            },
+            "message": "> You are on a `<duration>` cooldown!"
+        },
+        "memberNoPermission": {
+            "embed": {
+                "active": true,
+                "color": "#2B2D31"
+            },
+            "message": "> :negative_squared_cross_mark: You are missing permissions to use this command! [`<command.userPerms>`]"
+        },
+        "botNoPermission": {
+            "embed": {
+                "active": true,
+                "color": "#2B2D31"
+            },
+            "message": "> :negative_squared_cross_mark: I am missing permissions to use this command! [`<command.botPerms>`]"
+        },
+        "commandError": {
+            "embed": {
+                "active": true,
+                "color": "#2B2D31"
+            },
+            "message": "> :negative_squared_cross_mark: Something went wrong while executing this command."
+        },
+        "commandNotFound": {
+            "embed": {
+                "active": true,
+                "color": "#2B2D31"
+            },
+            "message": "> :negative_squared_cross_mark: Command not found."
+        },
+        "componentNotFound": {
+            "embed": {
+                "active": true,
+                "color": "#2B2D31"
+            },
+            "message": "> :negative_squared_cross_mark: Component not found."
+        }
+    },
+    "emotes": {
+        "check_mark": ":white_check_mark:",
+        "cross": ":negative_squared_cross_mark:",
+        "question_mark": ":question:",
+        "exclamation_mark": ":exclamation:",
+        "ping": ":ping_pong:"
+    }
+}
